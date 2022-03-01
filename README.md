@@ -1,3 +1,3 @@
 # Certificates
 
-Сертификаты знания языков, стажировок, специализации Яндекса и МФТИ "Машинное обучение и анализ данных" и других навыков в сфере IT.
+Certificates of different language knowledge, internships, specializations and other skills mainly relative with IT field
