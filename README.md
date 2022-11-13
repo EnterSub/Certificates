@@ -1,3 +1,3 @@
-# Certificates & Diplomas
+# Certificates & Diplomas & Certifications
 
-Certificates or diplomas of different language knowledge, internships, specializations and other skills relative mainly with IT field
+Certificates, diplomas, certifications of different knowledge, internships, specializations and other skills
